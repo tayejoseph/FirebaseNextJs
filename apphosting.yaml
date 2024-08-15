@@ -12,3 +12,5 @@ env:
     value: TODO
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: TODO
+  - variable: GEMINI_API_KEY
+    secret: gemini-api-key
